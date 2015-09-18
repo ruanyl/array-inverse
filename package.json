@@ -1,0 +1,24 @@
+{
+  "name": "array-inverse",
+  "version": "0.1.0",
+  "description": "inverse an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruanyl/array-inverse"
+  },
+  "keywords": ["array inverse"] ,
+  "author": "Yulong Ruan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruanyl/array-inverse/issues"
+  },
+  "homepage": "https://github.com/ruanyl/array-inverse",
+  "dependencies": {
+    "ava": "0.0.4"
+  },
+  "devDependencies": {}
+}
