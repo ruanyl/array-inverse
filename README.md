@@ -17,4 +17,12 @@ $ npm install array-inverse
 
 ``` js
 var arrayInverse = require('array-inverse');
+
+var arr = [
+            [1, 2, 3],
+            [1, 1, 1]
+          ];
+
+// return [[1, 1], [2, 1], [3, 1]];
+arrayInverse(arr);
 ```
